@@ -40,9 +40,6 @@ public class Enemy : MonoBehaviour
                 Destroy(gameObject);
         }
     }
-
-    
-
     public virtual void Move()
     {
         Vector3 tempPos = pos;
