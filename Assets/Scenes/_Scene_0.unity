@@ -485,7 +485,7 @@ MonoBehaviour:
   projectilePrefab: {fileID: 2438138264549675089, guid: d65461993123ca6409022a4a837cb354,
     type: 3}
   projectileSpeed: 40
-  _shieldLevel: 1
+  _shieldLevel: 4
 --- !u!4 &958523174
 Transform:
   m_ObjectHideFlags: 0
